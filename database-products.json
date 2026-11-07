@@ -1,0 +1,36 @@
+[
+  {
+    "isFeatured": true,
+    "pricePerGram": 5,
+    "duration": "0:15",
+    "title": "GMO X RUNTZ🍰🍓",
+    "cities": [
+      "casablanca",
+      "rabat",
+      "marrakech",
+      "tanger",
+      "agadir",
+      "fes"
+    ],
+    "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/gen-lang-client-0292552802.firebasestorage.app/o/uploads%2F2859d0e5-6fc9-4de5-a437-91b420d557bc.jpg?alt=media&token=d3b9917c-2486-4c5c-8780-a108dbdf7aee",
+    "id": "omerta-custom-1789426483100",
+    "additionalPhotos": [],
+    "isPremium": true,
+    "price": 5,
+    "videoUrl": "https://firebasestorage.googleapis.com/v0/b/gen-lang-client-0292552802.firebasestorage.app/o/uploads%2Fe7dbfbd5-2ac4-47e8-8d55-3011c15281e1.MP4_secure_compat.mp4?alt=media&token=6ccd3807-e17d-49f4-a94e-4c6d91ecdd03",
+    "description": "• Notes de burger grillé, d’ail et de gaz, avec une finition crémeuse et épicée. 🍔⛽🔥",
+    "badge": "IN_STOCK",
+    "currency": "EUR",
+    "pricing": {
+      "500g": 1500,
+      "1kg": 2500,
+      "50g": 200,
+      "100g": 350
+    },
+    "imageUrl": "",
+    "author": "FRESH GENETICS 💎",
+    "city": "casablanca",
+    "views": 624,
+    "category": "FROZEN"
+  }
+]

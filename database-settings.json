@@ -1,0 +1,103 @@
+{
+  "telegramSupportUrl": "https://t.me/yoru47",
+  "promoMessageText": "🚨 NEW DROP EST DISPONIBLE 🚨\n\nLes nouvelles références sont arrivées. 👀🔥\n\n📲 La mini-application est opérationnelle pour passer vos commandes.\nAppuyez sur 🛒 Shop pour y accéder directement.\n\n⚠️ Si vous n’avez pas encore accès, envoyez votre ID en privé afin d’être ajouté à la liste d’accès.\n@yoru47\n\nBonne découverte à tous. 💨",
+  "instagramUrl": "",
+  "signalUrl": "https://signal.me/#eu/w6NQMTq58RhypsehbArfwBE8e6-MEK-eVR00xyjQk5HJmVv06d9BVLnw6fW-poXa",
+  "telegramChannelUrl": "https://t.me/yoru47",
+  "bgAudioUrl": "https://firebasestorage.googleapis.com/v0/b/gen-lang-client-0292552802.firebasestorage.app/o/uploads%2F3c510560-3dba-47c1-9d25-c057a02fd12e.mp3?alt=media&token=3a5a6ad4-6f44-442f-b459-18a66e9ddfe0",
+  "sectionTitles": [
+    {
+      "size": "L",
+      "enabled": true,
+      "color": "#8B5CF6",
+      "text": "MAES INTERNATIONAL",
+      "category": "All",
+      "id": "1",
+      "order": 1
+    },
+    {
+      "text": "SELECTION LA MOUSSE",
+      "enabled": true,
+      "id": "2",
+      "size": "L",
+      "order": 2,
+      "color": "#8B5CF6",
+      "category": "LA MOUSSE"
+    },
+    {
+      "size": "L",
+      "text": "SELECTION DRY SIFT",
+      "order": 3,
+      "id": "3",
+      "enabled": true,
+      "category": "DRY SIFT",
+      "color": "#8B5CF6"
+    },
+    {
+      "text": "SELECTION BELDIA",
+      "category": "BELDIA",
+      "id": "4",
+      "size": "L",
+      "order": 4,
+      "color": "#8B5CF6",
+      "enabled": true
+    },
+    {
+      "text": "SELECTION FROZEN",
+      "enabled": true,
+      "id": "5",
+      "color": "#8B5CF6",
+      "size": "L",
+      "category": "FROZEN",
+      "order": 5
+    },
+    {
+      "id": "6",
+      "enabled": true,
+      "order": 6,
+      "category": "STATIC",
+      "color": "#8B5CF6",
+      "size": "L",
+      "text": "SELECTION STATIC"
+    },
+    {
+      "size": "L",
+      "enabled": true,
+      "color": "#8B5CF6",
+      "text": "SELECTION WPFF",
+      "order": 7,
+      "category": "WPFF",
+      "id": "7"
+    },
+    {
+      "order": 8,
+      "id": "8",
+      "category": "MEET UP RABAT",
+      "color": "#8B5CF6",
+      "size": "L",
+      "text": "MEET UP RABAT",
+      "enabled": true
+    },
+    {
+      "size": "L",
+      "id": "9",
+      "color": "#8B5CF6",
+      "text": "ACCESSOIRES",
+      "category": "ACCESSOIRES",
+      "enabled": true,
+      "order": 9
+    }
+  ],
+  "promoImageUrl": "/assets/aistudio/6008268280986013487_09131328.jpg",
+  "introVideoUrl": "",
+  "appDisabled": false,
+  "launchScreenUrl": "https://firebasestorage.googleapis.com/v0/b/gen-lang-client-0292552802.firebasestorage.app/o/uploads%2F9d803f9d-fe71-4b34-918b-1bb9bff11277.jpg?alt=media&token=a7d2044c-6c70-4952-923f-7a3ac892607d",
+  "introBgUrl": "https://firebasestorage.googleapis.com/v0/b/gen-lang-client-0292552802.firebasestorage.app/o/uploads%2Fff6f96dc-8fca-46f1-9a1f-f9e0b1cef570.jpg?alt=media&token=4a96d96d-647b-403e-95a7-f85e1a95ea1c",
+  "customAppUrl": "https://the-hasman.vercel.app",
+  "promoButtonText": "Boutique 🛍️",
+  "homepageHeroBgUrl": "https://firebasestorage.googleapis.com/v0/b/gen-lang-client-0292552802.firebasestorage.app/o/uploads%2F4fc6e393-6f3d-4b04-b4d9-d8c7e6f65d59.jpg?alt=media&token=1b3584b9-ac81-4e79-8c4d-a37774912262",
+  "bgLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gen-lang-client-0292552802.firebasestorage.app/o/uploads%2Ff413b4a5-8503-4301-bd31-e0eabc78316a.jpg?alt=media&token=f58c072b-3248-43ca-87b2-6f8d157a291e",
+  "introMusicTitle": "Maes - 26 années (Prod by BBP)",
+  "logoUrl": "https://firebasestorage.googleapis.com/v0/b/gen-lang-client-0292552802.firebasestorage.app/o/uploads%2F4b7783e4-fe39-4b51-b7c4-eea0472d2f85.jpg?alt=media&token=db926bff-1980-4fcb-83a4-819901104d7b",
+  "introStatusLine": "FRESH GENETICS 💎 — BOUTIQUE OFFICIELLE"
+}

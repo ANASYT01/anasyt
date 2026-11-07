@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Gold Member 🏆",
+    "id": "reward-2ca8jb4",
+    "minOrders": 20,
+    "description": "Statut Gold débloqué. Récompenses exclusives et accès anticipé aux nouvelles disponibilités.",
+    "promoCode": "",
+    "isActive": true
+  },
+  {
+    "title": "Elite Member 💎",
+    "promoCode": "",
+    "isActive": true,
+    "minOrders": 30,
+    "description": "Niveau Elite. Réservé aux meilleurs clients avec avantages premium et récompenses exclusives.",
+    "id": "reward-85lz9f9"
+  },
+  {
+    "minOrders": 10,
+    "id": "reward-880qecg",
+    "description": "Accès au statut Silver. Priorité sur les nouveautés et avantages réservés aux membres fidèles.",
+    "promoCode": "",
+    "title": "Silver Member 🪙",
+    "isActive": true
+  }
+]
